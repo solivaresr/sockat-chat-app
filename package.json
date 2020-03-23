@@ -1,0 +1,17 @@
+{
+  "name": "socket-chat-app",
+  "version": "1.0.0",
+  "description": "tutorial de youtube (Build a real time chat app with node.js and socket.io)",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
